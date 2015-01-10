@@ -1,0 +1,3 @@
+[submodule "libop"]
+	path = libop
+	url = https://github.com/orlp/libop.git
